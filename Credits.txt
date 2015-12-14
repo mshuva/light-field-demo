@@ -1,0 +1,5 @@
+Make4DLF code was borrowed from along with flowers LF.
+https://sites.google.com/site/hgjeoncv/home/depthfromlf_cvpr15 for Make4DLF code -- slightly modified
+
+Chess LF from Stanford. Other light fields can be gathered from here as well.
+http://lightfield.stanford.edu/lfs.html
